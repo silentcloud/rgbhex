@@ -1,6 +1,6 @@
 # sshkey
 
-rgb 颜色与 hex 颜色相互转换，为 IOS 的RGB colorWithRed 方法提供方便。
+rgb 颜色与 hex 颜色相互转换，为 IOS 的 colorWithRed 方法提供方便。
 
 ---
 
