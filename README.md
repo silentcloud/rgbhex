@@ -22,8 +22,5 @@ rgb 颜色与 hex 颜色相互转换，为 IOS 的 colorWithRed 方法提供方�
 
     $ rgbhex f11
 
-    $ rgbhex #f1f1f1
-
-    $ rgbhex #f11
 
 
