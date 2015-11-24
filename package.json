@@ -1,6 +1,6 @@
 {
   "name": "rgbhex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RGB and Hex color conversion,for IOS colorWithRed",
   "main": "./lib/rgbhex.js",
   "scripts": {
